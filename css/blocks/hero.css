@@ -1,0 +1,26 @@
+.hero {
+  display: flex;
+  margin-bottom: 100px;
+}
+
+.hero__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero__text-section {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+}
+
+.hero__title {
+  font-size: 60px;
+  line-height: 1.4;
+  margin-bottom: 359px;
+  width: 69%;
+  border-left: 1px solid;
+  padding-left: 20px;
+}
+
+

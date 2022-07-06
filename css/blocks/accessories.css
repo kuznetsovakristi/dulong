@@ -1,0 +1,28 @@
+.accessories__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.accessories__title {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.cost__title {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.accessories__item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.accessories__title {
+  margin-top: 30px;
+}
+
+.cost__title {
+  margin-top: 15px;
+}

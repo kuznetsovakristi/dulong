@@ -1,0 +1,42 @@
+.advantages__item {
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+}
+
+.advantages__desc {
+gap: 50px;
+font-size: 30px;
+font-weight: 600;
+position: absolute;
+top: 100px;
+right: 60px;
+padding: 0;
+}
+
+.advantages__list {
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 100px;
+margin-bottom: 50px;
+}
+
+.advantage {
+  max-width: 734px;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+
+.advantages__item-glass {
+gap: 50px;
+}
+
+.advantages__background {
+  position: relative;
+}

@@ -1,0 +1,50 @@
+.features__nozzle {
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 60px;
+}
+
+.features__nozzle-desc {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+
+.features__background {
+ position: relative;
+}
+
+.features__desc {
+  font-size: 30px;
+  font-weight: 600;
+  position: absolute;
+  top: 246px;
+  right: 105px;
+  left: 1074px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  }
+
+  .features__list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .features__desc--nozzle {
+    font-size: 30px;
+    font-weight: 600;
+    position: absolute;
+    top: 386px;
+    right: 143px;
+    left: 1127px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  .features__item-nozzle {
+    margin-bottom: 100px;
+  }

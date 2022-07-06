@@ -1,0 +1,36 @@
+.btn {
+  background: #A31886;
+  border-radius: 5px;
+  padding: 20px 40px;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+  margin: 0 auto;
+  display: block;
+  width: 394px;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #690F56;
+  transition: 1s;
+}
+
+.btn--cost {
+  background: #A31886;
+  border-radius: 5px;
+  padding: 20px 40px;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+  align-self: flex-start;
+  margin: 0;
+  width: 252px;
+}
+
+.btn--footer {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 343px;
+}

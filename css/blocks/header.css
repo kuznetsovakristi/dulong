@@ -1,0 +1,23 @@
+.header {
+  position: relative;
+  margin-bottom: 257px;
+  padding-top: 40px;
+ }
+
+ .header__conteiner {
+  display: flex;
+  justify-content: space-between;
+  gap: 894px;
+  align-items: center;
+ }
+
+ .header__left {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+ }
+
+ .header__right {
+  display: flex;
+  align-items: center;
+ }

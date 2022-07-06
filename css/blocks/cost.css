@@ -1,0 +1,30 @@
+.desc__desc {
+  margin-bottom: 100px;
+  border-left: 1px solid;
+  padding-left: 20px;
+}
+
+.desc {
+  font-size: 50px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.cost__background {
+ position: relative;
+}
+
+.cost__desc {
+    position: absolute;
+    top: 349px;
+    left: 100px;
+    padding: 0;
+}
+
+.presentation {
+  font-size: 42px;
+  font-weight: 500;
+  position: absolute;
+  left: 628px;
+  top: 989px;
+}
