@@ -7,7 +7,6 @@
  .header__conteiner {
   display: flex;
   justify-content: space-between;
-  gap: 894px;
   align-items: center;
  }
 
