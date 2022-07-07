@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
- img {
+img {
   max-width: 100%;
 }
 
@@ -67,4 +67,19 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 60px;
+}
+
+.logo__pic {
+  min-width: 126px;
+  min-height: 202px;
+}
+
+.telegram {
+  max-width: 24px;
+  min-height: 24px;
+}
+
+.wa {
+  max-width: 24px;
+  min-height: 24px; 
 }
